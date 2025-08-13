@@ -45,7 +45,15 @@
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with Azure and DigitalOcean.</li>
 </ul>
-</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 <!--Contribution Graph-->
