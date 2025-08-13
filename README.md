@@ -24,7 +24,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=RidhoBagusPrakoso&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
@@ -126,28 +126,19 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:ridhobagusp07@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="ridhobagusp07@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/rdhodoy_" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="rdhodoy_" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+<a href="https://www.githubcom/RidhoBagusPrakoso" target="_blank">
+<img src="./github.png" width=50 height=50 alt="RidhoBagusPrakoso" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
-
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
 
 
 <!--Footer--> 
