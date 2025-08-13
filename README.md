@@ -130,20 +130,12 @@
 <img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://www.instagram.com/kiran_a_n" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/Kiran1689" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://dev.to/dev_kiran" target="_blank">
