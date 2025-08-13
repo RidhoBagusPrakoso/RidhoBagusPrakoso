@@ -52,9 +52,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
